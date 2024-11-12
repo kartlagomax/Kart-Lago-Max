@@ -379,10 +379,6 @@ section:nth-child(odd) {
 }
 
 @media (max-width: 480px) {
-  .logo {
-    height: 50px;
-  }
-
   .hero h1 {
     font-size: 2rem;
   }
